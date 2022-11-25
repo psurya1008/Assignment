@@ -1,0 +1,27 @@
+[
+    { 
+      "name": "Surya", 
+      "id": 1,
+      "Role": "Director" 
+    },
+    { 
+      "name": "Dave", 
+      "id": 2,
+      "Role": "Manager" 
+    },
+    {
+      "name": "Hari",
+      "id": 3,
+      "Role": "Admin"
+    },
+    {
+      "name": "David",
+      "id": 5,
+      "Role": "Admin"
+  }, {
+    "name": "John",
+    "id": 6,
+    "Role": "Dir"
+}
+    
+]
